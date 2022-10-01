@@ -12,3 +12,10 @@ h1 {
     text-align: center;
 	font-size: 30px;
 }
+#menu {
+    width: 20%;
+    height: 600px;
+    background-color: rgb(243, 240, 240);
+    float: left;
+    margin-top: 10px;
+}
