@@ -32,3 +32,8 @@ h1 {
     width: 400px;
     height: 600px;
 }
+
+p {
+    text-align: left;
+    font-size: 20px;
+}
