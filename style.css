@@ -19,3 +19,11 @@ h1 {
     float: left;
     margin-top: 10px;
 }
+#principal {
+    width: 80%;
+    height: 600px;
+    background-color:rgb(243, 240, 240);
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
