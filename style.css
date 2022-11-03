@@ -10,6 +10,14 @@ header {
 	width: 100%;
 }
 
+nav li {
+   display: block;
+   
+}
+
+nav a {
+    text-transform: none;
+}
 h1 {
     text-align: center;
 	font-size: 30px;
@@ -65,7 +73,7 @@ p {
 
 .imagemcomputacional {
     width: 60%;
-    height: 500px;
+    height: 400px;
     padding: 100px;
     text-align: center;
 }
